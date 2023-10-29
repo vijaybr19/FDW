@@ -1,0 +1,20 @@
+#hero{
+    
+    border-radius: 500px;
+    border: 2px solid black;
+}
+
+th.name{
+    font-size: 5000px;
+    font-weight: 900;
+}
+
+h1{
+    text-align: center;
+}
+
+.details {
+   border: 1px solid black;
+   padding: 2px;
+   
+}
